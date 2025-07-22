@@ -1,0 +1,9 @@
+# Virtuelle Umgebung
+.venv/
+
+# API-Key und sensible Daten
+.env
+
+# Python-Cache-Dateien
+__pycache__/
+*.pyc
