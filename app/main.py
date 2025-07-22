@@ -1,5 +1,5 @@
 import streamlit as st
-# from app.logic import analyze_and_recommend  # Du implementierst das gleich in logic.py
+from app.logic import analyze_and_recommend  
 # from app.database import save_log            # Optional: späteres Speichern in CSV oder DB
 # from app.visualize import show_training_chart  # Optional: Verlauf zeigen
 
